@@ -1,0 +1,2 @@
+# nodejs-platzivideo
+Develop the application that will manage Platzi Videos data. Create a REST API to query and modify system data. Perform testing of the application and deployment of the application in a cloud service. (Desarrolla la aplicación que gestionará los datos de Platzi Videos. Crea una API REST para consultar y modificar datos del sistema. Realización de epruebas de la aplicación y el despliegue de la aplicación en un servicio de la nube.)
